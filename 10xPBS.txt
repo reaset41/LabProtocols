@@ -1,0 +1,17 @@
+10x PBS (phosphate buffered saline)
+
+For 1 liter of 10x PBS:
+• 80g NaCl
+• 2g KCl
+• 14.4g Na2HPO4
+• 2.4g KH2PO4
+
+Adjust pH to 7.4
+Autoclave to sterilize
+
+
+Final 1X PBS Solution Concentrations:
+NaCl: 137 mM
+KCl: 2.7 mM
+Na2HPO4: 10 mM
+KH2PO4: 1.8 mM
